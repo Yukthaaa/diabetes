@@ -1,0 +1,4 @@
+Streamlit version==1.27.0
+Pillow version==9.4.0
+pandas version==1.5.3
+numpy version==1.23.5
